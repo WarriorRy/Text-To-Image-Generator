@@ -9,16 +9,16 @@ This project focuses on harnessing the power of the Stable Diffusion model, an a
 Download the jupyter notebook and run it.
 
 #Usage:
-
+Write the description of your image as parameters in the generate_image() function in the code.
 
 #Dependencies:
 Libraries rquired are:
-  Diffusers 
-  Transformers 
-  Torch
-  Pathlib
-  Tqdm
-  Pandas
-  Numpy
-  Matplotlib
+  Diffusers,
+  Transformers, 
+  Torch,
+  Pathlib,
+  Tqdm,
+  Pandas,
+  Numpy,
+  Matplotlib,
   CV2 
